@@ -1,2 +1,2 @@
-# Sacode-laravel-day2
+# Sacode-laravel-day02
 
